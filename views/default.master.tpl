@@ -74,7 +74,6 @@
         {asset name="Foot"}
       </div>
     </footer>
-
     {event name="AfterBody"}
   </body>
 </html>
